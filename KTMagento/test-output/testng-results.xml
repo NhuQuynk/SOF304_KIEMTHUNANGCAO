@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-22T22:43:44 ICT" name="Default suite" finished-at="2022-04-22T22:44:00 ICT" duration-ms="15664">
+    <groups>
+    </groups>
+    <test started-at="2022-04-22T22:43:44 ICT" name="Default test" finished-at="2022-04-22T22:44:00 ICT" duration-ms="15664">
+      <class name="sof304.Thi1842002.TC04">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:sof304.Thi1842002.TC04@61001b64]" started-at="2022-04-22T22:43:44 ICT" name="beforeTest" finished-at="2022-04-22T22:43:51 ICT" duration-ms="6624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="f(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:sof304.Thi1842002.TC04@61001b64]" started-at="2022-04-22T22:43:51 ICT" name="f" data-provider="dp" finished-at="2022-04-22T22:44:00 ICT" duration-ms="9007" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Huongg@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Huongdx@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:sof304.Thi1842002.TC04@61001b64]" started-at="2022-04-22T22:44:00 ICT" name="afterTest" finished-at="2022-04-22T22:44:00 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- sof304.Thi1842002.TC04 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
